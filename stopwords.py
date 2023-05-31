@@ -676,6 +676,7 @@ stopwords = {
         'cây',
         'cây nước',
         'còn',
+        'còn có',
         'còn như',
         'còn nữa',
         'còn thời gian',
