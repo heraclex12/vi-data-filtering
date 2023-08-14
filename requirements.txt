@@ -1,0 +1,11 @@
+datasets
+numpy
+pandas
+emoji==1.6.1
+markdown==3.4.3
+beautifulsoup4==4.12.2
+simhash-py
+sentencepiece==0.1.99
+streamlit==1.22.0
+fasttext==0.9.2
+https://github.com/kpu/kenlm/archive/master.zip
