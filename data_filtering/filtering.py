@@ -3,6 +3,7 @@ import re
 import numpy as np
 
 import fasttext
+fasttext.FastText.eprint = lambda x: None
 
 import sentencepiece
 import kenlm
