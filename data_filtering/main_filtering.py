@@ -133,6 +133,7 @@ def main():
         data_files=args.data_files,
         split=args.split,
         use_auth_token=args.use_auth_token,
+        num_proc=args.num_proc
     )
 
     if args.remove_meta:
